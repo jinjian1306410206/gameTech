@@ -12,7 +12,7 @@
 
 <a name = "项目名称"></a>
 ## 项目名称 ##
-图片展 </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图片展 </br>
 
 
 
@@ -26,7 +26,7 @@
 
 <a name = "操作说明"></a>
 ### 操作说明 ###
-打开index.html进行查看，由于需要加载js插件，初始化加载可能要一段时间，请耐心等待。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;打开index.html进行查看，由于需要加载js插件，初始化加载可能要一段时间，请耐心等待。
 
 
 <a name = "获取代码"></a>
